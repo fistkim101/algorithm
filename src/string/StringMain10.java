@@ -1,5 +1,7 @@
 package string;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class StringMain10 {
@@ -47,42 +49,42 @@ public class StringMain10 {
         System.out.println(stringBuilder.toString().trim());
     }
 
-//    public void solution(String string, String target) {
-//        char[] chars = string.toCharArray();
-//        char targetChar = target.toCharArray()[0];
-//
-//        final List<Integer> targetIndex = new ArrayList<>();
-//        for (int i = 0; i < chars.length; i++) {
-//            if (chars[i] == targetChar) {
-//                targetIndex.add(i);
-//            }
-//        }
-//
-//        final List<Integer> distances = new ArrayList<>();
-//        for (int i = 0; i < chars.length; i++) {
-//            int min = chars.length - 1;
-//            for (Integer index : targetIndex) {
-//                int temp = 0;
-//                if (index > i) {
-//                    temp = index - i;
-//                } else {
-//                    temp = i - index;
-//                }
-//
-//                if (temp < min) {
-//                    min = temp;
-//                }
-//            }
-//            distances.add(min);
-//        }
-//
-//        StringBuilder stringBuilder = new StringBuilder();
-//        distances.forEach(distance -> {
-//            stringBuilder.append(distance).append(" ");
-//        });
-//        String result = stringBuilder.toString().trim();
-//        System.out.println(result);
-//    }
+    public void solution(String string, String target) {
+        char[] chars = string.toCharArray();
+        char targetChar = target.toCharArray()[0];
+
+        final List<Integer> targetIndex = new ArrayList<>();
+        for (int i = 0; i < chars.length; i++) {
+            if (chars[i] == targetChar) {
+                targetIndex.add(i);
+            }
+        }
+
+        final List<Integer> distances = new ArrayList<>();
+        for (int i = 0; i < chars.length; i++) {
+            int min = chars.length - 1;
+            for (Integer index : targetIndex) {
+                int temp = 0;
+                if (index > i) {
+                    temp = index - i;
+                } else {
+                    temp = i - index;
+                }
+
+                if (temp < min) {
+                    min = temp;
+                }
+            }
+            distances.add(min);
+        }
+
+        StringBuilder stringBuilder = new StringBuilder();
+        distances.forEach(distance -> {
+            stringBuilder.append(distance).append(" ");
+        });
+        String result = stringBuilder.toString().trim();
+        System.out.println(result);
+    }
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
