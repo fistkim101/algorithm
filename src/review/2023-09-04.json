@@ -1,0 +1,222 @@
+[
+  {
+    "id": 6,
+    "reviewDate": "2023-09-04",
+    "question": "앞에서 읽을 때나 뒤에서 읽을 때나 같은 문자열을 팰린드롬이라고 합니다. 문자열이 입력되면 해당 문자열이 팰린드롬이면 YES, 아니면 NO를 출력하는 프로그램을 작성하세요. 단 회문을 검사할 때 알파벳만 가지고 회문을 검사하며, 대소문자를 구분하지 않습니다. 알파벳 이외의 문자들의 무시합니다.",
+    "answer": "",
+    "currentReviewPeriodDays": 7,
+    "createdAt": "2023-08-28T16:46:12.339298",
+    "categoryName": "인프런 알고리즘 입문",
+    "categoryId": 1,
+    "categoryType": "LECTURE"
+  },
+  {
+    "id": 9,
+    "reviewDate": "2023-09-04",
+    "question": "알파벳 대문자로 이루어진 문자열을 입력받아 같은 문자가 연속으로 반복되는 경우 반복되는 문자 바로 오른쪽에 반복 횟수를 표기하는 방법으로 문자열을 압축하는 프로그램을 작성하시오.단 반복횟수가 1인 경우 생략합니다",
+    "answer": "",
+    "currentReviewPeriodDays": 14,
+    "createdAt": "2023-08-28T17:45:05.097511",
+    "categoryName": "인프런 알고리즘 입문",
+    "categoryId": 1,
+    "categoryType": "LECTURE"
+  },
+  {
+    "id": 12,
+    "reviewDate": "2023-09-04",
+    "question": "RAM 이 무슨 약자고 의미가 뭔지, 어떤 데이터들이 저장되는지",
+    "answer": "",
+    "currentReviewPeriodDays": 7,
+    "createdAt": "2023-08-28T18:49:24.341436",
+    "categoryName": "소프트웨어 세상을 여는 컴퓨터 과학",
+    "categoryId": 2,
+    "categoryType": "BOOK"
+  },
+  {
+    "id": 18,
+    "reviewDate": "2023-09-04",
+    "question": "정수 하나를 표현하는데 사용하는 메모리 공간은 얼마인가",
+    "answer": "",
+    "currentReviewPeriodDays": 7,
+    "createdAt": "2023-08-28T18:56:56.617714",
+    "categoryName": "소프트웨어 세상을 여는 컴퓨터 과학",
+    "categoryId": 2,
+    "categoryType": "BOOK"
+  },
+  {
+    "id": 19,
+    "reviewDate": "2023-09-04",
+    "question": "실수 하나를 표현하는데 사용하는 메모리 공간은 얼마인가",
+    "answer": "",
+    "currentReviewPeriodDays": 7,
+    "createdAt": "2023-08-28T18:57:31.85262",
+    "categoryName": "소프트웨어 세상을 여는 컴퓨터 과학",
+    "categoryId": 2,
+    "categoryType": "BOOK"
+  },
+  {
+    "id": 21,
+    "reviewDate": "2023-09-04",
+    "question": "CPU 사용량이란 무엇인가? CPU 사용량의 정의",
+    "answer": "",
+    "currentReviewPeriodDays": 7,
+    "createdAt": "2023-08-29T13:32:11.251429",
+    "categoryName": "서버 모니터링",
+    "categoryId": 3,
+    "categoryType": "TOPIC"
+  },
+  {
+    "id": 22,
+    "reviewDate": "2023-09-04",
+    "question": "CPU 사용량이 서버에 미치는 영향",
+    "answer": "",
+    "currentReviewPeriodDays": 7,
+    "createdAt": "2023-08-29T13:32:24.705502",
+    "categoryName": "서버 모니터링",
+    "categoryId": 3,
+    "categoryType": "TOPIC"
+  },
+  {
+    "id": 23,
+    "reviewDate": "2023-09-04",
+    "question": "프로세스, 스레드의 정의",
+    "answer": "",
+    "currentReviewPeriodDays": 7,
+    "createdAt": "2023-08-29T13:32:35.886525",
+    "categoryName": "서버 모니터링",
+    "categoryId": 3,
+    "categoryType": "TOPIC"
+  },
+  {
+    "id": 24,
+    "reviewDate": "2023-09-04",
+    "question": "CPU 사용량을 낮추는 방법",
+    "answer": "",
+    "currentReviewPeriodDays": 7,
+    "createdAt": "2023-08-29T13:32:45.291094",
+    "categoryName": "서버 모니터링",
+    "categoryId": 3,
+    "categoryType": "TOPIC"
+  },
+  {
+    "id": 25,
+    "reviewDate": "2023-09-04",
+    "question": "웹플럭스가 왜 컨텍스트 스위칭 비용이 낮은가",
+    "answer": "",
+    "currentReviewPeriodDays": 7,
+    "createdAt": "2023-08-29T13:32:56.317582",
+    "categoryName": "서버 모니터링",
+    "categoryId": 3,
+    "categoryType": "TOPIC"
+  },
+  {
+    "id": 26,
+    "reviewDate": "2023-09-04",
+    "question": "서버의 메모리 사용량의 의미",
+    "answer": "",
+    "currentReviewPeriodDays": 7,
+    "createdAt": "2023-08-29T14:38:13.495237",
+    "categoryName": "서버 모니터링",
+    "categoryId": 3,
+    "categoryType": "TOPIC"
+  },
+  {
+    "id": 28,
+    "reviewDate": "2023-09-04",
+    "question": "Xms 는 무조건 작아도 되는가",
+    "answer": "",
+    "currentReviewPeriodDays": 7,
+    "createdAt": "2023-08-29T14:38:32.549296",
+    "categoryName": "서버 모니터링",
+    "categoryId": 3,
+    "categoryType": "TOPIC"
+  },
+  {
+    "id": 29,
+    "reviewDate": "2023-09-04",
+    "question": "Xms 가 그럼 무지성으로 크게 잡혀있으면 뭐가 문제인가",
+    "answer": "",
+    "currentReviewPeriodDays": 7,
+    "createdAt": "2023-08-29T14:38:48.218742",
+    "categoryName": "서버 모니터링",
+    "categoryId": 3,
+    "categoryType": "TOPIC"
+  },
+  {
+    "id": 30,
+    "reviewDate": "2023-09-04",
+    "question": "Xmx, Xms 초기값",
+    "answer": "",
+    "currentReviewPeriodDays": 7,
+    "createdAt": "2023-08-29T14:38:58.294604",
+    "categoryName": "서버 모니터링",
+    "categoryId": 3,
+    "categoryType": "TOPIC"
+  },
+  {
+    "id": 31,
+    "reviewDate": "2023-09-04",
+    "question": "Xmx, Xms 최적화는 어떤 기준으로 이뤄져야하나",
+    "answer": "",
+    "currentReviewPeriodDays": 7,
+    "createdAt": "2023-08-29T14:39:07.928623",
+    "categoryName": "서버 모니터링",
+    "categoryId": 3,
+    "categoryType": "TOPIC"
+  },
+  {
+    "id": 32,
+    "reviewDate": "2023-09-04",
+    "question": "메모리 사용량을 고려한 서버 모니터링 및 조치",
+    "answer": "",
+    "currentReviewPeriodDays": 7,
+    "createdAt": "2023-08-29T14:39:20.156631",
+    "categoryName": "서버 모니터링",
+    "categoryId": 3,
+    "categoryType": "TOPIC"
+  },
+  {
+    "id": 49,
+    "reviewDate": "2023-09-04",
+    "question": "에라토스테네스 체",
+    "answer": "",
+    "currentReviewPeriodDays": 4,
+    "createdAt": "2023-09-02T09:42:36.304733",
+    "categoryName": "인프런 알고리즘 입문",
+    "categoryId": 1,
+    "categoryType": "LECTURE"
+  },
+  {
+    "id": 50,
+    "reviewDate": "2023-09-04",
+    "question": "임시반장 선거",
+    "answer": "",
+    "currentReviewPeriodDays": 1,
+    "createdAt": "2023-09-02T10:47:59.1639",
+    "categoryName": "인프런 알고리즘 입문",
+    "categoryId": 1,
+    "categoryType": "LECTURE"
+  },
+  {
+    "id": 51,
+    "reviewDate": "2023-09-04",
+    "question": "멘토링",
+    "answer": "",
+    "currentReviewPeriodDays": 4,
+    "createdAt": "2023-09-02T11:00:29.783955",
+    "categoryName": "인프런 알고리즘 입문",
+    "categoryId": 1,
+    "categoryType": "LECTURE"
+  },
+  {
+    "id": 52,
+    "reviewDate": "2023-09-04",
+    "question": "CH03 투포인터, 슬라이딩 윈도우",
+    "answer": "",
+    "currentReviewPeriodDays": 1,
+    "createdAt": "2023-09-03T21:12:31.93006",
+    "categoryName": "인프런 알고리즘 입문",
+    "categoryId": 1,
+    "categoryType": "LECTURE"
+  }
+]
