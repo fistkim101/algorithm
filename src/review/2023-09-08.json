@@ -1,0 +1,57 @@
+[
+  {
+    "id": 51,
+    "reviewDate": "2023-09-08",
+    "question": "멘토링",
+    "answer": "",
+    "currentReviewPeriodDays": 7,
+    "createdAt": "2023-09-02T11:00:29.783955",
+    "categoryName": "인프런 알고리즘 입문",
+    "categoryId": 1,
+    "categoryType": "LECTURE"
+  },
+  {
+    "id": 54,
+    "reviewDate": "2023-09-08",
+    "question": "CH01 사람을 사랑한 기술",
+    "answer": "",
+    "currentReviewPeriodDays": 1,
+    "createdAt": "2023-09-07T21:16:37.417494",
+    "categoryName": "스프링 입문을 위한 자바 객체 지향의 원리와 이해",
+    "categoryId": 5,
+    "categoryType": "BOOK"
+  },
+  {
+    "id": 55,
+    "reviewDate": "2023-09-08",
+    "question": "올바른 괄호",
+    "answer": "",
+    "currentReviewPeriodDays": 1,
+    "createdAt": "2023-09-07T21:17:05.544077",
+    "categoryName": "인프런 알고리즘 입문",
+    "categoryId": 1,
+    "categoryType": "LECTURE"
+  },
+  {
+    "id": 56,
+    "reviewDate": "2023-09-08",
+    "question": "괄호 문자 제거",
+    "answer": "",
+    "currentReviewPeriodDays": 1,
+    "createdAt": "2023-09-07T21:17:13.654367",
+    "categoryName": "인프런 알고리즘 입문",
+    "categoryId": 1,
+    "categoryType": "LECTURE"
+  },
+  {
+    "id": 57,
+    "reviewDate": "2023-09-08",
+    "question": "크레인 인형 뽑기",
+    "answer": "",
+    "currentReviewPeriodDays": 1,
+    "createdAt": "2023-09-07T21:17:21.530674",
+    "categoryName": "인프런 알고리즘 입문",
+    "categoryId": 1,
+    "categoryType": "LECTURE"
+  }
+]

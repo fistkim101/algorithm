@@ -1,9 +1,10 @@
 package stack.main;
 
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        String a = "a";
+        System.out.println(System.identityHashCode(a));
+        a = "b";
+        System.out.println(System.identityHashCode(a));
     }
 }
