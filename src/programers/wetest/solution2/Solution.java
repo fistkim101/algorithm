@@ -22,4 +22,12 @@ public class Solution {
         System.out.println(T.solution(15));
     }
 }
+<<<<<<< HEAD
 // clear
+=======
+// temp
+// first feature !!!
+// master update
+
+// added
+>>>>>>> 912b153 (updated)
