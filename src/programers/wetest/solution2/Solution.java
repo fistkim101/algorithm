@@ -22,8 +22,4 @@ public class Solution {
         System.out.println(T.solution(15));
     }
 }
-<<<<<<< HEAD
 // clear
-=======
-// clear
->>>>>>> 5461d86 (conflict resolve)
