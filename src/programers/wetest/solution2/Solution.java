@@ -22,6 +22,4 @@ public class Solution {
         System.out.println(T.solution(15));
     }
 }
-// temp
-// first feature !!!
-// master update
+// clear
