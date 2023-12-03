@@ -13,7 +13,7 @@ public class Solution {
 
             return Integer.parseInt(String.valueOf(number.charAt(number.length() - (index - n) - 1)));
         }
-
+        // added
         return 0;
     }
 
